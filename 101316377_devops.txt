@@ -1,2 +1,3 @@
 The COMP 3104 Devops course is ran by Mr. Pritesh Patel. Devops uses git and 
-github and other resources.
+github and other resources. This course lasts 15 weeks and contains multiple 
+assessment tools such as quizzes, Lab exercises, assignment and exams.
