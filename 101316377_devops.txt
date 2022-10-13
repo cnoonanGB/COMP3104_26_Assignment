@@ -1,1 +1,2 @@
-The COMP 3104 Devops course is ran by Mr. Pritesh Patel.
+The COMP 3104 Devops course is ran by Mr. Pritesh Patel. Devops uses git and 
+github and other resources.
