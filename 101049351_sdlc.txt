@@ -1,5 +1,6 @@
 Developer Operations (devops) is the combination of software development with IT operations with the aim of shortening the software development life cycle (SDLC).
 Devops allows bussinesses to deliver new applications and updates faster by bringing together development and IT operations roles, reducing redundancies in the SDLC.
-Devops developed from the Agile methodology, which focuses on continuous delivery of short 'sprints'.
+
+
 Devops uses automation tools to speed up the testing of code changes and facilitates collaboration with version control systems such as git.
 Also With DevOps, it is possible to develop a new product much faster.
