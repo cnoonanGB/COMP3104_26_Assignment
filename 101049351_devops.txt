@@ -1,0 +1,4 @@
+COMP 3104 Developer Operations is a third year course in the T177 Computer Programming and Analysis program at GBC.
+The course covers devops tools and techniques such as version control systems (VCS) with git and continuous integration (CI) with GitHub Actions and Travis CI.
+The assessment consists of lab exercises, quizzes, two assignments, and two exams.
+It is taught by Prof. Pritesh Patel.
