@@ -1,3 +1,4 @@
 COMP 3104 DevOps deals with teamwork in which all programming processes are carried out, from the 
 beginning of the design to the development processes.
 In addition, it includes all the tools that increase the efficiency and finalization abilities of the teams working in the IT field.
+
