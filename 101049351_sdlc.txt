@@ -1,0 +1,1 @@
+Developer Operations (devops) is the combination of software development with IT operations with the aim of shortening the software development life cycle (SDLC).
